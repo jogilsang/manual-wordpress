@@ -76,8 +76,15 @@ Google Fonts for WordPress :
 
 우커머스 한글화 하기 :  
 https://wpbox.kr/shop/woocommerce-po-file-in-wpbox/  
-
-
+```
+다운받은 압축파일을 압축 해제 합니다. 그러면 두개의 파일이 나옵니다.
+FTP 클라이언트 프로그램 (파일질라 또는 알FTP 등)으로 내 웹서버에 접속합니다.
+wp-content/languages/plugins/ 폴더안에 두개의 파일을 옮겨 넣습니다.
+해당 폴더가 wp-content 폴더 안에 없다면 워드프레스언어를 한글로 바꾸면 됩니다.
+plugins 폴더가 없다면 새로 만들면 됩니다.
+plugins 폴더안에 예전에 사용하던 우커머스 한글 번역파일이 있다면 (woocommerce-admin-ko_KR.mo , woocommerce-admin-ko_KR.po , woocommerce-ko_KR.mo , woocommerce-ko_KR.po 4개) 모두 삭제한후 새로 받은 두개의 파일을 업로드 합니다.
+관리자 단과 외부에서 모두 우커머스가 번역된 것을 볼 수 있습니다.
+```
 
 
 
