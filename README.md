@@ -19,3 +19,6 @@ https://wordpress.org/themes/sydney/
 6. appearance - import demo data로 전체 다운로드  
    (홈페이지 화면이 바뀜)  
 7. page - edit elementor  
+
+### 설정
+post name  
