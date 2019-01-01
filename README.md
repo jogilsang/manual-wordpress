@@ -76,6 +76,11 @@ Google Fonts for WordPress :
 
 우커머스 한글화 하기 :  
 https://wpbox.kr/shop/woocommerce-po-file-in-wpbox/  
+
+경로 :  
+bitnami/apps/wordpress/htdocs/wp-content/language/plugins  
+
+
 ```
 다운받은 압축파일을 압축 해제 합니다. 그러면 두개의 파일이 나옵니다.
 FTP 클라이언트 프로그램 (파일질라 또는 알FTP 등)으로 내 웹서버에 접속합니다.
