@@ -1,6 +1,9 @@
 # manual-wordpress
 for me
 
+### 사이트
+https://kopress.kr/  
+
 ### 강좌   
 https://www.inflearn.com   
  
