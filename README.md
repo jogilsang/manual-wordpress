@@ -74,6 +74,9 @@ Google Fonts for WordPress :
 
 우커머스용 아임포트 플러그인(모두) :  
 
+우커머스 한글화 하기 :  
+https://wpbox.kr/shop/woocommerce-po-file-in-wpbox/  
+
 
 
 
