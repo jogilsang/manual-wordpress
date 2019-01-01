@@ -91,6 +91,9 @@ plugins 폴더안에 예전에 사용하던 우커머스 한글 번역파일이 
 관리자 단과 외부에서 모두 우커머스가 번역된 것을 볼 수 있습니다.
 ```
 
+샘플파일 가져오기 :  
 
+bitnami/apps/wordpress/htdocs/wp-content/woocomerse/sampledata.xml 머 이런느낌  
+다운받자. 그리고 도구 - 워드프레스 설치후 파일 올려버리면됨. import 등 체크하고  
 
 
