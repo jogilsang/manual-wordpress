@@ -28,9 +28,11 @@ post name
 문서(docs) :   
 https://docs.woocommerce.com/?utm_source=setupwizard&utm_medium=product&utm_content=videos&utm_campaign=woocommerceplugin  
 
-mystile 테마  
+테마(Theme) :  
+mystile  
 https://justfreethemes.com/mystile-free-wordpress-theme/  
 
+플러그인(plugins) :  
 beomps korea postcode search :  
 한국형 주소  
 
@@ -42,6 +44,36 @@ KBoard 위젯 – 워드프레스 게시판 :
 
 Loco Translate :  
 Translate WordPress plugins and themes directly in your browser  
+
+woocomerce :
+워드프레스 쇼핑몰  
+
+poedit, dummy data :  
+우커머스 한글화  
+
+Postcode Shipping Rates- WooCommerce :  
+Postcode Shipping is a clean, powerful shipping rates plugin that helps you define multiple rates…  
+
+theme my login :  
+The ultimate login branding solution! Theme My Login offers matchless customization of your WordPress user  
+
+Social Media Share Buttons & Social Sharing Icons :  
+소셜미디어 아이콘, 버튼들  
+
+WooCommerce Advanced Free Shipping :  
+WooCommerce Advanced Free Shipping is an plugin which allows you to set up advanced free shipping conditions.  
+
+SMNTCS WooCommerce Quantity Buttons  
+or  
+Quantity Increment Buttons for WooCommerce :  
+증가버튼  
+
+Woocommerce Quick Buy :  
+
+Google Fonts for WordPress :  
+
+우커머스용 아임포트 플러그인(모두) :  
+
 
 
 
