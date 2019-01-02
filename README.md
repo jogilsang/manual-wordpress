@@ -38,8 +38,10 @@ https://wordpress.org/themes/sydney/
    (홈페이지 화면이 바뀜)  
 7. page - edit elementor  
 
-### 설정
+### 설정(Settings)
 post name  
+time -> utc +9, Y년 m월 d일  
+language -> korean  
 
 ### 한글고유주소가 연결이 안될경우  
 .htaccess 로 해결하면됨  
