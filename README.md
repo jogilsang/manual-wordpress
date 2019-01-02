@@ -17,6 +17,7 @@ https://www.xmind.net/download/
 
 ### 기타 플러그인
 라이브리, 디스커스(소셜 댓글시스템)  
+Shortcodes Ultimate : 페이지에 각종 기능을 빠르고 쉽게 추가 가능  
 
 contact form 7 : 문의하기 플러그인  
 ```
