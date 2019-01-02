@@ -18,7 +18,8 @@ https://www.xmind.net/download/
 ### 기타 플러그인
 라이브리, 디스커스(소셜 댓글시스템)  
 
-Yoast SEO : 검색 엔진 최적화 플러그인  
+Yoast SEO : 검색 엔진 최적화 플러그인 
+edit snippet -> 메타정보 : 콘텐츠 요약정보  
 
 P3 (Plugin performance profiler) : 플러그인으로 인한 사이트 성능측정  
 
