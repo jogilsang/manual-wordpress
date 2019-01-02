@@ -17,7 +17,29 @@ https://www.xmind.net/download/
 
 ### 기타 플러그인
 라이브리, 디스커스(소셜 댓글시스템)  
+
 contact form 7 : 문의하기 플러그인  
+```
+<label> 이름 (필수)
+    [text* your-name] </label>
+
+<label> 이름 (필수)
+   [tel* your-tell] </label>
+
+<label> 이메일 (필수)
+    [email* your-email] </label>
+
+<label> 제목
+    [text your-subject] </label>
+
+<label> 문의유형
+    [select your-menu include_blank "제품서비스 문의" "고객 불만" "배송 문의" "건의하기"] </label>
+
+<label> 메시지
+    [textarea your-message] </label>
+
+[submit "보내기"]
+```
 
 ### Setting(세팅)
 general(일반) -> anyone can register 회원가입받기, 태그라인(홈페이이지설명)  
