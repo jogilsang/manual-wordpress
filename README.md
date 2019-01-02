@@ -21,6 +21,10 @@ https://www.xmind.net/download/
 Yoast SEO : 검색 엔진 최적화 플러그인 
 edit snippet -> 메타정보 : 콘텐츠 요약정보  
 
+wp content copy : 우클릭 방지  
+
+ithemes security : 해킹 차단, 이메일로 알려줌  
+
 P3 (Plugin performance profiler) : 플러그인으로 인한 사이트 성능측정  
 
 Shortcodes Ultimate : 페이지에 각종 기능을 빠르고 쉽게 추가 가능  
