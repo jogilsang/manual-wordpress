@@ -6,7 +6,7 @@ https://kopress.kr/
 
 ### 서비스(services)
 그라바타(gravatar)  :  
-프로필사진 공유  
+프로필사진 공유, 만약 안나오면 이메일이 다른거임    
 
 ### 강좌   
 https://www.inflearn.com   
