@@ -18,10 +18,14 @@ https://www.xmind.net/download/
 ### 기타 플러그인
 라이브리, 디스커스(소셜 댓글시스템)  
 
+P3 (Plugin performance profiler) : 플러그인으로 인한 사이트 성능측정  
+
 Shortcodes Ultimate : 페이지에 각종 기능을 빠르고 쉽게 추가 가능  
 ex) faq 만들기 -> heading tabs spoiler service button  
 
 Pricing Table Builder - Easy Pricing Tables  
+
+Korea SNS : 국내 여러사이트로 공유가능  
 
 contact form 7 : 문의하기 플러그인  
 ```
