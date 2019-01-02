@@ -17,6 +17,11 @@ https://www.xmind.net/download/
 
 ### 기타 테마(Themes)
 *** 부모테마 말고 자식테마로 사용해야 데이터 날라갈 걱정이 없음  
+*** WinSCP로 themes를 들어가서, child 폴더를 만든다  ex) zerif-lite-child   
+*** 안에 부모테마 스크린샷파일(그냥 구분용)과 style.css 파일을 만들어서 넣는다  
+*** style.css 파일 내용은 @import url(../zerif-lite/style.css); 를 써서넣는다  
+*** 워드프레스에서 자식테마를 선택해서 사용하면된다  
+
 Oblique : 포트폴리오에 적합  
 Zerif Lite : 회사 웹사이트에 적합    
 Storefront : 쇼핑몰 테마  
