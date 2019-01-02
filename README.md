@@ -17,6 +17,7 @@ https://www.xmind.net/download/
 
 ### 기타 플러그인
 라이브리, 디스커스(소셜 댓글시스템)  
+contact form 7 : 문의하기 플러그인  
 
 ### Setting(세팅)
 general(일반) -> anyone can register 회원가입받기, 태그라인(홈페이이지설명)  
