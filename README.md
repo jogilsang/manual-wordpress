@@ -11,6 +11,10 @@ https://kopress.kr/
 ### 강좌   
 https://www.inflearn.com   
 
+### 기획
+xMind : 마인드맵 그리는 SW  
+https://www.xmind.net/download/  
+
 ### 기타 플러그인
 라이브리, 디스커스(소셜 댓글시스템)  
 
