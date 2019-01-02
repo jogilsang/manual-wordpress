@@ -16,6 +16,7 @@ xMind : 마인드맵 그리는 SW
 https://www.xmind.net/download/  
 
 ### 기타 테마(Themes)
+*** 부모테마 말고 자식테마로 사용해야 데이터 날라갈 걱정이 없음  
 Oblique : 포트폴리오에 적합  
 Zerif Lite : 회사 웹사이트에 적합    
 Storefront : 쇼핑몰 테마  
