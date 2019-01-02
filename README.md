@@ -6,6 +6,16 @@ https://kopress.kr/
 
 ### 강좌   
 https://www.inflearn.com   
+
+### 기타 플러그인
+라이브리, 디스커스(소셜 댓글시스템)  
+
+### Setting(세팅)
+general(일반) -> anyone can register 회원가입받기, 태그라인(홈페이이지설명)  
+Reading(읽기) -> Search Engine Visibility  
+discusstion(토론) -> 댓글은 수동으로 승인돼야합니다. 체크해제  
+                     다른 댓글 설정 -> 댓글 쓴사람, 이름 이메일 남기기  
+                                      가입하여 로그인해야만 쓸수있기 체크해제  
  
 ### 시드니 테마 다운로드  
 https://wordpress.org/themes/sydney/  
@@ -22,6 +32,9 @@ https://wordpress.org/themes/sydney/
 
 ### 설정
 post name  
+
+### 한글고유주소가 연결이 안될경우  
+.htaccess 로 해결하면됨  
 
 ### 쇼핑몰 만들기  
 우커머스  
