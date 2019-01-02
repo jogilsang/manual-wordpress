@@ -15,7 +15,13 @@ https://www.inflearn.com
 xMind : 마인드맵 그리는 SW  
 https://www.xmind.net/download/  
 
-### 기타 플러그인
+### 기타 테마(Themes)
+Oblique : 포트폴리오에 적합  
+Zerif Lite : 회사 웹사이트에 적합    
+Storefront : 쇼핑몰 테마  
+sydney : 회사 웹사이트에 적합  
+
+### 기타 플러그인(plugins)
 라이브리, 디스커스(소셜 댓글시스템)  
 
 Yoast SEO : 검색 엔진 최적화 플러그인 
