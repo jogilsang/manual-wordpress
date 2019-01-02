@@ -26,7 +26,10 @@ wp content copy : 우클릭 방지
 ithemes security : 해킹 차단, 이메일로 알려줌  
 1. 해당 플러그인에게 시스템 파일 접근권한 주기  
 2. 보안 통지 이메일  
-3. 자신의 컴퓨터 ip를 화이트리스트 등록(로그인 실수시 차단됨)  
+3. 자신의 컴퓨터 ip를 화이트리스트 등록(로그인 실수시 차단됨) 
+4. hide backend -> 사이트 뒤에 admin 경로를 다른걸로 변경  
+
+BacpWpup - Wordpress Backup Plugin : 백업 플러그인  
 
 P3 (Plugin performance profiler) : 플러그인으로 인한 사이트 성능측정  
 
